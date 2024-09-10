@@ -64,7 +64,7 @@ export default function Home() {
                     <Image
                       src={pic4}
                       alt="About Us"
-                      layout="responsive"
+                      sizes="100vw"
                       width={500}
                       height={300}
                     />

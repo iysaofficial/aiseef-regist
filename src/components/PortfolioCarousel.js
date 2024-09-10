@@ -97,7 +97,7 @@ const PortfolioCarousel = () => {
                 <Image
                   src={item.images}
                   alt={`Image ${item.alt}`}
-                  layout="responsive"
+                  sizes="100vw"
                   width={600}
                   height={400}
                 />
